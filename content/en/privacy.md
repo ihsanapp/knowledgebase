@@ -12,7 +12,7 @@ The privacy of your data — and it is your data, not ours! — is a big deal to
 
 ### Identity & access
 
-When you sign up for a XYZ account, we typically ask for identifying information such as your name, email address, photos (we do not normally look at or access those photos) and profile bio-data. That’s just so you can access the full features of XYZ. We’ll never sell your personal info to third parties, and we won’t use your name in any marketing statements without your permission either.
+When you sign up for a Ihsan account, we typically ask for identifying information such as your name, email address, photos (we do not normally look at or access those photos) and profile bio-data. That’s just so you can access the full features of Ihsan. We’ll never sell your personal info to third parties, and we won’t use your name in any marketing statements without your permission either.
 
 ### Abuse assessments
 
@@ -28,7 +28,7 @@ We do use a persistent first-party cookie for authentication only. A cookie is a
 
 ### Voluntary correspondence
 
-When you write to XYZ or on any public social media platform like Discord with a question or to ask for help, we keep that correspondence, you are however free to delete such correspondance from your side if possible.
+When you write to Ihsan or on any public social media platform like Discord with a question or to ask for help, we keep that correspondence, you are however free to delete such correspondance from your side if possible.
 
 We also store any information you volunteer like surveys.
 
@@ -49,7 +49,7 @@ Our default practice is to not access your information. The only times we’ll e
 * Honeybadger - Error reporting
 * Imagekit - Image storage
 * Backblaze - Image storage
-* Mailjet - Transactional email provider
+* Mailgun - Transactional email provider
 
 **To help you troubleshoot or squash a software bug, with your permission.** If at any point we need to access your account to help you with a Support case, we will ask for your consent before proceeding.
 
@@ -77,7 +77,7 @@ Data is stored in both EU and US on different cloud providers.
 
 ### GDPR
 
-XYZ recognizes and does comply with GDPR and its rights, except as limited. We make it as easy as possible to exercise most rights directly from your account.
+Ihsan recognizes and does comply with GDPR and its rights, except as limited. We make it as easy as possible to exercise most rights directly from your account.
 
 ### Changes & questions
 
@@ -85,4 +85,4 @@ We may update this policy as needed to comply with relevant regulations and refl
 
 Have any questions, comments, or concerns about this privacy policy, your data, or your rights with respect to your information? Please get in touch on Discord and we’ll be happy to answer them!
 
-*XYZ policies are open source, licensed under CC BY 4.0. Adapted from the Basecamp open-source policies / CC BY 4.0.*
+*Ihsan policies are open source, licensed under CC BY 4.0. Adapted from the Basecamp open-source policies / CC BY 4.0.*
